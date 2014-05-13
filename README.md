@@ -27,6 +27,8 @@ git config --global merge.tool opendiff
 
 ### Rebasing
 
+http://git-scm.com/book/en/Git-Branching-Rebasing
+
 ### Github
 
 * Edit/commit UI
