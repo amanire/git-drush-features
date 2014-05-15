@@ -9,6 +9,7 @@ Git
 * Ammending commits
 * .gitconfig and .gitignore  
   e.g. `git config core.fileMode false`
+* Git reset
 * Pull vs Fetch and Merge  
   See http://longair.net/blog/2009/04/16/git-fetch-and-merge
 * Git aliases  
