@@ -15,6 +15,7 @@ Git
 * Git aliases  
   e.g. `$ git hist`  
   See http://gitimmersion.com/lab_11.html  
+* Git hashes
 * Git describe (for tags)
 
 ### Merging
