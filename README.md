@@ -4,6 +4,8 @@ Git
 ### Brief overview
 
 * Committing and log
+* Diff  
+  ``git diff --cached``
 * Ammending commits
 * .gitconfig and .gitignore  
   e.g. `git config core.fileMode false`
@@ -48,6 +50,9 @@ http://nvie.com/posts/a-successful-git-branching-model
 **References**  
 http://git-scm.com/documentation  
 
+Git - SVN Crash Course
+http://git-scm.com/course/svn.html
+
 Drush
 ====
 
@@ -73,12 +78,15 @@ A command line shell and scripting interface for Drupal
 
 ### Site aliases
 
+* drush site-alias (sa)
+
 **examples:**  
 `drush @hay.dev cc all`  
 `drush @hay.local uli`  
 
 * Shell aliases
 
+**References:**  
 http://drush.ws  
 http://drush.ws/help/examples  
 http://drushcommands.com  
