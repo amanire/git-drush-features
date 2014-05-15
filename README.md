@@ -62,7 +62,7 @@ A command line shell and scripting interface for Drupal
 
 ### Commonly-used commands
 
-* clear-caches (cc) - typically, `drush cc all`
+* cache-clear (cc) - typically, `drush cc all`
 * pm-list (pml)
 * pm-download (dl)
 * pm-enable (en)
